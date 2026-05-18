@@ -17,5 +17,5 @@ The system follows a modern full-stack architecture:
 ## Getting Started
 Please refer to the inner folders (`thesis_api/` and `thesis-dashboard/`) for specific setup instructions, dependency lists, and environment configurations.
 ## To RUn de code:
-You can download the file.zip or clone the github, and go to thesis_api folder and run the (`python requeriment.txt`), then in this folder you can run (`python app.py`), and go to the thesis-dashboard and run (`npm run dev`), also if you need to update the tables that you have in your current docker container in mysql, I add the code (`python recreate_db.py`) this code drop the current tables. 
+You can download the file.zip or clone the github, and go to thesis_api folder and run the (`python requeriment.txt`) to install all requeriments that you need, then in this folder you can run (`python app.py`), and go to the thesis-dashboard and run (`npm run dev`), also if you need to update the tables that you have in your current docker container in mysql, I add the code (`python recreate_db.py`) this code drop the current tables. 
 
